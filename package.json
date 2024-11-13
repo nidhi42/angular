@@ -39,9 +39,9 @@
     "@angular-devkit/core": "^8.0.0-beta.15",
     "@angular-devkit/schematics": "^8.0.0-beta.15",
     "@angular/bazel": "file:./tools/npm/@angular_bazel",
-    "@bazel/jasmine": "0.37.1",
+    "@bazel/jasmine": "2.0.0",
     "@bazel/karma": "0.37.1",
-    "@bazel/protractor": "0.37.1",
+    "@bazel/protractor": "0.41.0",
     "@bazel/typescript": "0.37.1",
     "@microsoft/api-extractor": "^7.3.9",
     "@schematics/angular": "^8.0.0-beta.15",
@@ -114,7 +114,7 @@
     "tslint": "5.7.0",
     "typescript": "~3.5.3",
     "xhr2": "0.1.4",
-    "yargs": "13.1.0",
+    "yargs": "13.3.0",
     "zone.js": "^0.10.2"
   },
   "optionalDependencies": {
